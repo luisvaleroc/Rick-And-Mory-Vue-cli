@@ -1,4 +1,4 @@
-# rick and Morty
+# Rick and Morty
 
 ## Project setup
 ```
